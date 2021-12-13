@@ -1,0 +1,4 @@
+downloaded from https://neurovault.org/collections/2472/
+paper: 
+Fullana et al 2015
+Neural signatures of human fear conditioning: an updated and extended meta-analysis of fMRI studies
