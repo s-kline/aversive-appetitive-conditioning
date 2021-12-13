@@ -1,0 +1,45 @@
+{
+"Primary_publication": 
+"Kruse, O., Klein, S., Tapia León, I.,  Stark, R., & Klucken, T. (2020). 
+Amygdala and nucleus accumbens involvement in appetitive extinction. Human Brain Mapping.",
+
+"Associated_publications": 
+"Klucken, T., Kruse, O., Klein, S., Kampa, M., Tapia León, I., & Stark, R. (2019). 
+The relationship between neuroticism and appetitive conditioning. 
+Neurobiology of Learning and Memory, 164, 107068. ",
+
+"Notes":
+"This dataset was shared by for the purpose of collaborative
+SVM analyses and consulting.",
+
+"Publication_URLs": 
+"https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24915
+https://www.sciencedirect.com/science/article/abs/pii/S1074742719301352",
+
+"Publication_DOIs": 
+"https://doi.org/10.1002/hbm.24915
+https://doi.org/10.1016/j.nlm.2019.107068 ",
+
+"Paradigm_files_links": null,
+
+"Data_files_links": null,
+
+"IRB_number": null,
+
+"Scanner_site": "Bender Institute of Neuroimaging, JLU Giessen",
+
+"Field_strength": "3.0T",
+
+"Citing_this_work": 
+"If you use this dataset in a publication, 
+please include as authors or acknowledge individuals as specified below. 
+Please also see information on publications and grants to cite.",
+
+"Authors_to_include_on_reuse": null,
+
+"Authors_to_acknowledge_on_reuse": null,
+
+"Grant_numbers_to_cite": null
+
+
+}
