@@ -1,0 +1,46 @@
+{
+"Primary_publication": 
+"Tapia León, I., Kruse, O., Stark, R., & Klucken, T. (2019). 
+Relationship of sensation seeking with the neural correlates of appetitive conditioning. 
+Social Cognitive and Affective Neuroscience, 14(7), 769-775.",
+
+"Associated_publications": 
+"Tapia León, I., Kruse, O., Stalder, T., Stark, R., & Klucken, T. (2018). 
+Neural correlates of subjective CS/UCS association in appetitive conditioning. 
+Human Brain Mapping, 39(4), 1637-1646. ",
+
+"Notes":
+"This dataset was shared by for the purpose of collaborative
+SVM analyses and consulting. Bion-internal project number is 0205ok.",
+
+"Publication_URLs": 
+"https://academic.oup.com/scan/article/14/7/769/5532401
+https://onlinelibrary.wiley.com/doi/10.1002/hbm.23940",
+
+"Publication_DOIs": 
+"https://doi.org/10.1093/scan/nsz046
+https://doi.org/10.1002/hbm.23940",
+
+"Paradigm_files_links": null,
+
+"Data_files_links": null,
+
+"IRB_number": null,
+
+"Scanner_site": "Bender Institute of Neuroimaging, JLU Giessen",
+
+"Field_strength": "3.0T",
+
+"Citing_this_work": 
+"If you use this dataset in a publication, 
+please include as authors or acknowledge individuals as specified below. 
+Please also see information on publications and grants to cite.",
+
+"Authors_to_include_on_reuse": null,
+
+"Authors_to_acknowledge_on_reuse": null,
+
+"Grant_numbers_to_cite": null
+
+
+}
