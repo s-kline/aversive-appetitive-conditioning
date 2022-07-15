@@ -1,6 +1,6 @@
 # aversive-appetitive-conditioning
 
-This repository contains code used to examine commonalities in the neural bases of aversive and appetitive conditioning. Put in once published (See _publication_ for details.)
+This repository contains code used to examine commonalities in the neural bases of aversive and appetitive conditioning. See _publication_ for details.
 
 ## Dependencies: These should be installed to use this code
 
